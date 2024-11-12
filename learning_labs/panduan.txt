@@ -1,0 +1,1 @@
+export sql dulu ke phpMyAdmin lalu baru bisa di jalankan programnya kak
